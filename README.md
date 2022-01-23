@@ -18,7 +18,7 @@ La aplicación tiene un coste de 15 USD y para su implementación requieres la b
 
 # Enlace demo de la aplicación
 
-http://localhost/alquiler_automoviles/admin/login.php
+https://mauriciosevilla.com/libros_pdf/admin/login.php
 Usuario: configuroweb
 Clave: 1234abcd..
 
